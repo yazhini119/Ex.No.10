@@ -4,22 +4,6 @@ Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 ## Date:10/09/2026
 ## Reg. No.212223050062
 
-## Aim:
-To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
-
-Yes. I’ll use the attached **Ex.No.10 reference** as the format and methodology, but instead of copying the Agriculture/AgriTwin example, I’ll adapt the experiment to **your final-year EEE project: Cloud-Based Speed Control and Monitoring of an Induction Motor using PLC, VFD, HMI, Arduino and AWS**.
-
-The reference experiment demonstrates seven prompt patterns—query decomposition, decision making, answer engineering, fact-check listing, tail generation, menu actions, and semantic filtering—and compares basic vs refined outputs. 
-
-# Ex.No.10 – Content Creation Using Prompt Patterns
-
-## Date:
-
-10-09-2026
-
-## Reg. No.:
-
-212223240135
 
 ## Aim
 
